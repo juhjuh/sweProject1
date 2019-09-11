@@ -123,3 +123,15 @@ h1 {
 	top: 100px; 
 	left: 120px; 
 }
+
+footer {
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	text-align: center;
+	clear:both;
+
+}
