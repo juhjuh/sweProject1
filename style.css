@@ -55,8 +55,24 @@ h1 {
 	margin-right: 10px;
 }
 
+.left-arm:hover {
+	-webkit-transform: rotate(20deg);
+	-moz-transform: rotate(20deg);
+	-o-transform: rotate(20deg);
+	-ms-transform: rotate(20deg);
+	transform: rotate(20deg);
+}
+
 .right_arm {
 	margin-left: 10px;
+}
+
+.right-arm:hover {
+	-webkit-transform: rotate(20deg);
+	-moz-transform: rotate(20deg);
+	-o-transform: rotate(20deg);
+	-ms-transform: rotate(20deg);
+	transform: rotate(20deg);
 }
 
 .torso {
